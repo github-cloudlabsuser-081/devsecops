@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "env": {
-      "value": "deploymentidvalue"
+      "value": "1394413"
     },
     "sqlPassword": {
-      "value": "bicepsqlpass"
+      "value": "imoq13BCX*yK"
     },
     "aksLinuxAdminUsername": {
       "value": "localadmin"
